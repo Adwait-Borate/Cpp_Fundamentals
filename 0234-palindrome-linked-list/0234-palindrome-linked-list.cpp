@@ -40,7 +40,7 @@ public:
         return true;
     }
 
-private:
+//private:
     ListNode* reverseList(ListNode* head) {
         if (head == nullptr || head->next == nullptr) {
             return head;
