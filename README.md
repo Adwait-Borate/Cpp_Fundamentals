@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0226-invert-binary-tree) |
+| [1450-delete-leaves-with-a-given-value](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0226-invert-binary-tree) |
+| [1450-delete-leaves-with-a-given-value](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -53,4 +55,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0226-invert-binary-tree) |
+| [1450-delete-leaves-with-a-given-value](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1450-delete-leaves-with-a-given-value) |
 <!---LeetCode Topics End-->
