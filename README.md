@@ -77,8 +77,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1666-make-the-string-great](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1666-make-the-string-great) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/2572-append-characters-to-string-to-make-subsequence) |
+| [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 ## Greedy
 |  |
 | ------- |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/2572-append-characters-to-string-to-make-subsequence) |
+## Math
+|  |
+| ------- |
+| [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
+## Counting
+|  |
+| ------- |
+| [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 <!---LeetCode Topics End-->
