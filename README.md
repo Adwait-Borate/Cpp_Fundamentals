@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0234-palindrome-linked-list) |
 | [0443-string-compression](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0443-string-compression) |
 | [0908-middle-of-the-linked-list](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0908-middle-of-the-linked-list) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 ## Recursion
 |  |
 | ------- |
@@ -71,4 +72,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0443-string-compression](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0443-string-compression) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/2572-append-characters-to-string-to-make-subsequence) |
+## Greedy
+|  |
+| ------- |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 <!---LeetCode Topics End-->
