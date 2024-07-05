@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0165-compare-version-numbers](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0165-compare-version-numbers) |
 | [0234-palindrome-linked-list](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0234-palindrome-linked-list) |
 | [0443-string-compression](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0443-string-compression) |
 | [0908-middle-of-the-linked-list](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0908-middle-of-the-linked-list) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0165-compare-version-numbers](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0165-compare-version-numbers) |
 | [0443-string-compression](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0443-string-compression) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/2572-append-characters-to-string-to-make-subsequence) |
