@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0165-compare-version-numbers) |
 | [0234-palindrome-linked-list](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0234-palindrome-linked-list) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0165-compare-version-numbers) |
 | [0344-reverse-string](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0344-reverse-string) |
