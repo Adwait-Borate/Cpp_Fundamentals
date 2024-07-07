@@ -47,6 +47,7 @@ public:
             carry = sum / 10;
             n1len--;
             n2len--;
+            sum=0;
         }
 
         while (n1len > 0) {
