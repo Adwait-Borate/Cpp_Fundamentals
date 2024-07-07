@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0344-reverse-string) |
+| [0415-add-strings](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0520-detect-capital) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0415-add-strings) |
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 ## Counting
 |  |
@@ -131,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0242-valid-anagram) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+## Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
