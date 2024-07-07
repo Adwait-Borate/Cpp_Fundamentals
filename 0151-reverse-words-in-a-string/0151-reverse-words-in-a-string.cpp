@@ -27,15 +27,14 @@ public:
         std::stack<std::string> myStack = Reverse(s);
         std::string ans = "";
 
-        while (!myStack.empty()) {
-            ans += myStack.top() + " "; // Add space after each word
-            myStack.pop();
+       while (!myStack.empty()) {
+        if (myStack.size() == 1) {
+            ans += myStack.top(); // Add the last word without a space
+        } else {
+            ans += myStack.top() + " "; // Add space after each word except the last one
         }
-
-        // Remove the trailing space if any
-        if (!ans.empty()) {
-            ans.pop_back();
-        }
+        myStack.pop();
+    }
 
         return ans;
     }
