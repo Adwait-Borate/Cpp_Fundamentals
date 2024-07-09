@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0234-palindrome-linked-list) |
 ## Stack
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0060-permutation-sequence) |
 | [0415-add-strings](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0415-add-strings) |
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 ## Counting
