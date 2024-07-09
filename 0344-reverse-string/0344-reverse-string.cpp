@@ -1,16 +1,12 @@
 class Solution {
 public:
+    void reverseStringRecursion(vector<char>& s, int start, int end){
+        if(start>=end){return;}
+        swap(s[start],s[end]);
+        reverseStringRecursion(s,start+1,end-1);
+    }
     void reverseString(vector<char>& s) {
-        int len=s.size();
-        int i=0;
-        int j=len-1;
-        while(i<=j){
-            char temp=s[i];
-
-            s[i]=s[j];
-            s[j]=temp;
-            i++;
-            j--;
-        }
+        int n=s.size();
+        reverseStringRecursion(s,0,n-1);
     }
 };
