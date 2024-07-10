@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0049-group-anagrams) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 ## Sorting
@@ -139,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0415-add-strings) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
