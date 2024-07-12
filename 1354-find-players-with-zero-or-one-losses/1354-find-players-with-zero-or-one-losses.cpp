@@ -2,7 +2,7 @@ class Solution {
 public:
     vector<vector<int>> findWinners(vector<vector<int>>& matches) {
         unordered_map<int, int> lost;
-        
+        vector<vector<int>>ans;
         for(auto &it : matches) {
             int lose = it[1];
             lost[lose]++;
@@ -25,10 +25,12 @@ public:
             
         }
         
-        sort(begin(alwaysWin), end(alwaysWin));
-        sort(begin(oneLost), end(oneLost));
+        sort(alwaysWin.begin(), alwaysWin.end());
+        sort(oneLost.begin(), oneLost.end());
+        ans.push_back(alwaysWin);
+        ans.push_back(oneLost);
         
-        return {alwaysWin, oneLost};
+        return ans;
         
     }
 };
