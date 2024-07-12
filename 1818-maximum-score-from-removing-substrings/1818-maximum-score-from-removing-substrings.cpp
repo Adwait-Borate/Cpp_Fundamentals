@@ -27,22 +27,25 @@
 class Solution {
 public:
     int maximumGain(string s, int x, int y) {
-        int n     = s.length();
+        int n = s.length();
         int score = 0;
+        string maxStr="";
+        string minStr="";
+        if(x>y){
+            maxStr="ab";
+            minStr="ba";
+        }else{
+            maxStr="ba";
+            minStr="ab";
+        }
 
-        string maxStr = (x > y) ? "ab" : "ba";
-        string minStr = (x < y) ? "ab" : "ba";
+        string first = removeSubstring(s, maxStr);
+        int removedPairsCount = (n - first.length()) / 2;
+        score += removedPairsCount * max(x,y);
 
-        //First Pass
-        string temp_first     = removeSubstring(s, maxStr);
-        int removedPairsCount = (n - temp_first.length()) / 2;
-        score                += removedPairsCount * max(x, y);
-
-
-        //Second Pass
-        string temp_second = removeSubstring(temp_first, minStr);
-        removedPairsCount  = (temp_first.length() - temp_second.length()) / 2;
-        score             += removedPairsCount * min(x, y);
+        string second = removeSubstring(first, minStr);
+        removedPairsCount = (first.length() - second.length()) / 2;
+        score += removedPairsCount * min(x,y);
 
         return score;
     }
@@ -51,7 +54,7 @@ private:
     string removeSubstring(string& s, string& matchStr) {
         stack<char> st;
 
-        for (char &ch : s) {
+        for (char& ch : s) {
             if (ch == matchStr[1] && !st.empty() && st.top() == matchStr[0]) {
                 st.pop();
             } else {
