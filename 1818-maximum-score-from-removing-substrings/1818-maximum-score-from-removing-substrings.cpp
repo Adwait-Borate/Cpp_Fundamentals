@@ -22,7 +22,7 @@
 //         }
 //         return total;
 //     }
-// };
+// };   //CORRECT BUT GIVING TLE
 
 class Solution {
 public:
@@ -50,7 +50,7 @@ public:
         return score;
     }
 
-private:
+
     string removeSubstring(string& s, string& matchStr) {
         stack<char> st;
 
