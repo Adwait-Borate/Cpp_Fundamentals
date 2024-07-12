@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0268-missing-number) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0060-permutation-sequence) |
+| [0268-missing-number](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0415-add-strings) |
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 ## Counting
@@ -134,12 +136,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0268-missing-number) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0268-missing-number) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 ## Simulation
 |  |
@@ -155,4 +159,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
