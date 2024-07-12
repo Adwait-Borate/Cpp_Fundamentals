@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0165-compare-version-numbers) |
 | [0234-palindrome-linked-list](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0443-string-compression) |
 | [0908-middle-of-the-linked-list](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0908-middle-of-the-linked-list) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0287-find-the-duplicate-number) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 ## Sorting
 |  |
@@ -160,8 +162,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
