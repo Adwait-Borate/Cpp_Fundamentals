@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0049-group-anagrams) |
 | [0136-single-number](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0137-single-number-ii) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 ## Sorting
 |  |
@@ -151,4 +152,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0137-single-number-ii) |
 <!---LeetCode Topics End-->
