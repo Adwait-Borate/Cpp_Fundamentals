@@ -4,8 +4,8 @@ public:
         unordered_map<int, int>umap;
         int n=nums.size();
         int ans;
-        for (int i=0;i<n;i++) {
-            umap[nums[i]]++;
+        for (auto &i:nums) {
+            umap[i]++;
         }
 
         for (int i=0;i<=n;i++) {
