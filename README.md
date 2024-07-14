@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0443-string-compression) |
 | [0908-middle-of-the-linked-list](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0908-middle-of-the-linked-list) |
 | [1894-merge-strings-alternately](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1894-merge-strings-alternately) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 ## Recursion
 |  |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0876-hand-of-straights](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0876-hand-of-straights) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 ## Math
 |  |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1635-number-of-good-pairs](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1635-number-of-good-pairs) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2107-find-unique-binary-string](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/2107-find-unique-binary-string) |
 | [2428-equal-row-and-column-pairs](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/2428-equal-row-and-column-pairs) |
 ## Sorting
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-hand-of-straights](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0876-hand-of-straights) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## Simulation
 |  |
 | ------- |
