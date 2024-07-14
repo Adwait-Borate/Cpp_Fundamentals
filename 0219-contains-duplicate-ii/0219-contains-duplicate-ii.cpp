@@ -19,20 +19,19 @@
 //     }
 // };   //GIVING TLE
 
-
 class Solution {
 public:
-    bool containsNearbyDuplicate(std::vector<int>& nums, int k) {
-        std::unordered_map<int, int>umap;
+    bool containsNearbyDuplicate(vector<int>& nums, int k) {
+        std::unordered_map<int, int> umap;
 
         for (int i = 0; i < nums.size(); ++i) {
             if (umap.find(nums[i]) != umap.end()) {
                 if (i - umap[nums[i]] <= k) {
-                    return true; 
+                    return true;
                 }
             }
             umap[nums[i]] = i;
         }
-        return false; 
+        return false;
     }
 };
