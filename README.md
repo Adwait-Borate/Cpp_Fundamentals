@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0876-hand-of-straights](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0876-hand-of-straights) |
+| [0890-lemonade-change](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0917-boats-to-save-people) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0287-find-the-duplicate-number) |
 | [0648-replace-words](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0876-hand-of-straights) |
+| [0890-lemonade-change](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0917-boats-to-save-people) |
 | [1319-unique-number-of-occurrences](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1319-unique-number-of-occurrences) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1353-find-resultant-array-after-removing-anagrams) |
