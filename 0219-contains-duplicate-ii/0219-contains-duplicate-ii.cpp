@@ -1,14 +1,15 @@
 // class Solution {
 // public:
 //     bool containsNearbyDuplicate(vector<int>& nums, int k) {
-//         int n=nums.size();
-//         int j;int len=0;
-//         for(int i=0;i<n;i++){
-//             j=i+1;
-//             while(j<n){
-//                 if(nums[i]==nums[j]){
-//                     len=j-i;
-//                     if(len<=k){
+//         int n = nums.size();
+//         int j;
+//         int len = 0;
+//         for (int i = 0; i < n; i++) {
+//             j = i + 1;
+//             while (j < n) {
+//                 if (nums[i] == nums[j]) {
+//                     len = j - i;
+//                     if (len <= k) {
 //                         return true;
 //                     }
 //                 }
@@ -17,7 +18,7 @@
 //         }
 //         return false;
 //     }
-// };   //GIVING TLE
+// }; // GIVING TLE
 
 class Solution {
 public:
