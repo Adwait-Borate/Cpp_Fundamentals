@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0209-minimum-size-subarray-sum) |
 ## Array
 |  |
 | ------- |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0049-group-anagrams) |
 | [0136-single-number](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0137-single-number-ii) |
+| [0209-minimum-size-subarray-sum](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0209-minimum-size-subarray-sum) |
 | [0260-single-number-iii](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0287-find-the-duplicate-number) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0287-find-the-duplicate-number) |
 ## Trie
@@ -219,4 +222,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2428-equal-row-and-column-pairs](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/2428-equal-row-and-column-pairs) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
