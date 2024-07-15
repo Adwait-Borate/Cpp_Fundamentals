@@ -1,46 +1,43 @@
 // class Solution {
 // public:
-//     vector<string> findAndReplacePattern(vector<string>& words,
-//                                          string pattern) {
-//         unordered_map<char, int> patternMap;
-//         string word="";
-//         vector<string>ans;
-//         string str="";
-//         for (auto& i : pattern) {
-//             patternMap[i]++;
-//         }
-
-//         unordered_map<char, int> countCharFrequency(string& word) {
-//             unordered_map<char, int> frequency;
-//             for (char c : word) {
-//                 frequency[c]++;
-//             }
-
-//             return frequency;
-//         }
+//     vector<string> findAndReplacePattern(vector<string>& words, string pattern) {
+//         vector<string> ans;
+//         unordered_map<char, int> patternMap = countCharFrequency(pattern);
 
 //         int len = pattern.length();
-//         for (int i = 0; i < len; i++) {
-//             word=word[i];
+//         for (auto& word : words) {
 //             if (word.length() == len) {
-//                unordered_map<char, int> frequency = countCharFrequency(word);
-//                for(int j=0;j<len;j++){
-//                 if(patternMap[pattern[j]].second==frequency[word[j]].second){
-//                     str+=word[j];
+//                 unordered_map<char, int> wordMap = countCharFrequency(word);
+//                 bool match = true;
+//                 for (int j = 0; j < len; j++) {
+//                     if (patternMap[pattern[j]] != wordMap[word[j]]) {
+//                         match = false;
+//                         break;
+//                     }
 //                 }
-//                }
-//                ans.push_back(str);
+//                 if (match) {
+//                     ans.push_back(word);
+//                 }
 //             }
 //         }
 
 //         return ans;
+//     }
+
+//     unordered_map<char, int> countCharFrequency(const string& str) {
+//         unordered_map<char, int> frequency;
+//         for (char c : str) {
+//             frequency[c]++;
+//         }
+//         return frequency;
 //     }
 // };
 
 
 class Solution {
 public:
-    vector<string> findAndReplacePattern(vector<string>& words, string pattern) {
+    vector<string> findAndReplacePattern(vector<string>& words,
+                                         string pattern) {
         vector<string> ans;
 
         for (auto& word : words) {
@@ -52,7 +49,6 @@ public:
         return ans;
     }
 
-private:
     bool matchesPattern(const string& word, const string& pattern) {
         if (word.length() != pattern.length()) {
             return false;
@@ -79,4 +75,3 @@ private:
         return true;
     }
 };
-
