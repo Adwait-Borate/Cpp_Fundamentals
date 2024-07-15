@@ -58,7 +58,7 @@ public:
             char w = word[i];
             char p = pattern[i];
 
-            if (w2p.count(w) && w2p[w] != p || p2w.count(p) && p2w[p] != w) {
+            if (w2p.find(w)!=w2p.end() && w2p[w] != p || p2w.find(p)!=p2w.end() && p2w[p] != w) {
                 return false;
             }
 
