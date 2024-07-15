@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0234-palindrome-linked-list) |
+| [0739-daily-temperatures](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0937-online-stock-span) |
 | [1666-make-the-string-great](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1666-make-the-string-great) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0287-find-the-duplicate-number) |
 | [0648-replace-words](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0648-replace-words) |
+| [0739-daily-temperatures](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0739-daily-temperatures) |
 | [0876-hand-of-straights](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0917-boats-to-save-people) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0937-online-stock-span) |
 ## Data Stream
 |  |
