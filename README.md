@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0234-palindrome-linked-list) |
+| [0937-online-stock-span](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0937-online-stock-span) |
 | [1666-make-the-string-great](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1666-make-the-string-great) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Tree
@@ -232,4 +233,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0209-minimum-size-subarray-sum) |
+## Design
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0937-online-stock-span) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0937-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
