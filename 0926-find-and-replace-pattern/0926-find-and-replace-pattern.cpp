@@ -5,9 +5,9 @@
 //         unordered_map<char, int> patternMap = countCharFrequency(pattern);
 
 //         int len = pattern.length();
-//         for (auto& word : words) {
-//             if (word.length() == len) {
-//                 unordered_map<char, int> wordMap = countCharFrequency(word);
+//         for (auto& i : words) {
+//             if (i.length() == len) {
+//                 unordered_map<char, int> wordMap = countCharFrequency(i);
 //                 bool match = true;
 //                 for (int j = 0; j < len; j++) {
 //                     if (patternMap[pattern[j]] != wordMap[word[j]]) {
@@ -31,7 +31,7 @@
 //         }
 //         return frequency;
 //     }
-// };
+// };   // [49/50]
 
 
 class Solution {
@@ -40,9 +40,9 @@ public:
                                          string pattern) {
         vector<string> ans;
 
-        for (auto& word : words) {
-            if (matchesPattern(word, pattern)) {
-                ans.push_back(word);
+        for (auto& i : words) {
+            if (matchesPattern(i, pattern)) {
+                ans.push_back(i);
             }
         }
 
@@ -50,21 +50,15 @@ public:
     }
 
     bool matchesPattern(const string& word, const string& pattern) {
-        if (word.length() != pattern.length()) {
-            return false;
-        }
 
-        unordered_map<char, char> w2p; // word to pattern mapping
-        unordered_map<char, char> p2w; // pattern to word mapping
+        unordered_map<char, char> w2p;
+        unordered_map<char, char> p2w;
 
-        for (int i = 0; i < word.length(); ++i) {
+        for (int i = 0; i < word.length();i++) {
             char w = word[i];
             char p = pattern[i];
 
-            if (w2p.count(w) && w2p[w] != p) {
-                return false;
-            }
-            if (p2w.count(p) && p2w[p] != w) {
+            if (w2p.count(w) && w2p[w] != p || p2w.count(p) && p2w[p] != w) {
                 return false;
             }
 
