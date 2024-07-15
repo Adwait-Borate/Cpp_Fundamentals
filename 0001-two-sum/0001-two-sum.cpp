@@ -1,52 +1,21 @@
-
-
-
-#include <vector>
-#include <algorithm>
-
 class Solution {
 public:
-    std::vector<int> twoSum(std::vector<int>& nums, int target) {
-            std::vector<int> result;
-                    int left = 0;
-                            int right = nums.size() - 1;
+    vector<int> twoSum(vector<int>& nums, int target) {
+        unordered_map<int, int> umap;
+        int n = nums.size();
 
-                                    // Sort the array
-                                            std::vector<int> sortedNums(nums);
-                                                    std::sort(sortedNums.begin(), sortedNums.end());
 
-                                                            while (left < right) {
-                                                                        int sum = sortedNums[left] + sortedNums[right];
+        for (int i = 0; i < n; i++) {
+            umap[nums[i]] = i;
+        }
 
-                                                                                    if (sum == target) {
-                                                                                                    // Find the indices of the two numbers in the original array
-                                                                                                                    for (int i = 0; i < nums.size(); ++i) {
-                                                                                                                                        if (nums[i] == sortedNums[left]) {
-                                                                                                                                                                result.push_back(i);
-                                                                                                                                                                                        break;
-                                                                                                                                                                                                            }
-                                                                                                                                                                                                                            }
+        for (int i = 0; i < n; i++) {
+            int diff = target - nums[i];
+            if (umap.find(diff) != umap.end() && umap[diff] != i) {
+                return {i, umap[diff]};
+            }
+        }
 
-                                                                                                                                                                                                                                            for (int i = nums.size() - 1; i >= 0; --i) {
-                                                                                                                                                                                                                                                                if (nums[i] == sortedNums[right]) {
-                                                                                                                                                                                                                                                                                        result.push_back(i);
-                                                                                                                                                                                                                                                                                                                break;
-                                                                                                                                                                                                                                                                                                                                    }
-                                                                                                                                                                                                                                                                                                                                                    }
-
-                                                                                                                                                                                                                                                                                                                                                                    // Ensure the indices are in ascending order
-                                                                                                                                                                                                                                                                                                                                                                                    if (result[0] > result[1]) {
-                                                                                                                                                                                                                                                                                                                                                                                                        std::swap(result[0], result[1]);
-                                                                                                                                                                                                                                                                                                                                                                                                                        }
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                        break;
-                                                                                                                                                                                                                                                                                                                                                                                                                                                    } else if (sum > target) {
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                    right--;
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                } else {
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                left++;
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            }
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    }
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            return result;
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                }
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                };
+        return {};
+    }
+};
