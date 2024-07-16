@@ -38,13 +38,13 @@ public:
         int n = points.size();
         if (n == 0) return 0;
 
-        // Sort points based on the end coordinates
+       
         sort(points.begin(), points.end(), [](const vector<int>& a, const vector<int>& b) {
             return a[1] < b[1];
         });
 
         int i = 0;
-        int cnt = 1; // At least one arrow is needed
+        int cnt = 1;
         for (int j = 1; j < n; j++) {
             int currentEnd = points[i][1];
             int nextStart = points[j][0];
