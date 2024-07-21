@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0648-replace-words) |
 | [0926-find-and-replace-pattern](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0926-find-and-replace-pattern) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1666-make-the-string-great](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1666-make-the-string-great) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-hand-of-straights](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0917-boats-to-save-people) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1341-split-a-string-in-balanced-strings](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1635-number-of-good-pairs](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1635-number-of-good-pairs) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/2532-remove-letter-to-equalize-frequency) |
