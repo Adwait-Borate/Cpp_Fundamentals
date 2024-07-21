@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0917-boats-to-save-people) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1448-maximum-69-number](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1448-maximum-69-number) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0060-permutation-sequence) |
 | [0268-missing-number](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0415-add-strings) |
+| [1448-maximum-69-number](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1448-maximum-69-number) |
 | [1635-number-of-good-pairs](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1635-number-of-good-pairs) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
