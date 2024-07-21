@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-hand-of-straights](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0917-boats-to-save-people) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0415-add-strings) |
 | [1635-number-of-good-pairs](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1635-number-of-good-pairs) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 ## Counting
 |  |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1635-number-of-good-pairs](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1635-number-of-good-pairs) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2107-find-unique-binary-string](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/2107-find-unique-binary-string) |
 | [2428-equal-row-and-column-pairs](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/2428-equal-row-and-column-pairs) |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0917-boats-to-save-people) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## Simulation
 |  |
@@ -282,4 +286,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0004-median-of-two-sorted-arrays) |
+## Game Theory
+|  |
+| ------- |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1683-maximum-number-of-coins-you-can-get) |
 <!---LeetCode Topics End-->
