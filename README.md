@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0268-missing-number) |
+| [0525-contiguous-array](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0525-contiguous-array) |
 | [0648-replace-words](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0876-hand-of-straights) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0287-find-the-duplicate-number) |
 | [0435-non-overlapping-intervals](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0525-contiguous-array](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0525-contiguous-array) |
 | [0648-replace-words](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0648-replace-words) |
 | [0739-daily-temperatures](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0792-binary-search) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0209-minimum-size-subarray-sum) |
+| [0525-contiguous-array](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0525-contiguous-array) |
 ## Design
 |  |
 | ------- |
