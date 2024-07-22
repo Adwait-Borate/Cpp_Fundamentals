@@ -22,17 +22,17 @@
 class Solution {
 public:
     int findMaxLength(vector<int>& nums) {
-        unordered_map<int, int> prefixMap;
-        prefixMap[0] = -1; 
+        unordered_map<int, int> umap;
+        umap[0] = -1; 
         int maxLength = 0;
         int prefixSum = 0;
 
         for (int i = 0; i < nums.size(); i++) {
             prefixSum += (nums[i] == 1 ? 1 : -1);
-            if (prefixMap.find(prefixSum) != prefixMap.end()) {
-                maxLength = max(maxLength, i - prefixMap[prefixSum]);
+            if (umap.find(prefixSum) != umap.end()) {
+                maxLength = max(maxLength, i - umap[prefixSum]);
             } else {
-                prefixMap[prefixSum] = i;
+                umap[prefixSum] = i;
             }
         }
 
