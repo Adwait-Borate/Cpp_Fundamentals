@@ -20,7 +20,7 @@ class Solution {
 public:
     int largestAltitude(vector<int>& gain) {
         int n = gain.size();
-        vector<int> diff(n + 1, 0); 
+        vector<int> diff(n+1,0); 
 
         diff[0] = 0;
         diff[1] = gain[0];
