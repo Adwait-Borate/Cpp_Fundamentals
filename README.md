@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2107-find-unique-binary-string](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/2107-find-unique-binary-string) |
 | [2428-equal-row-and-column-pairs](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/2428-equal-row-and-column-pairs) |
+| [2502-sort-the-people](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/2502-sort-the-people) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/2532-remove-letter-to-equalize-frequency) |
 ## String
 |  |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1894-merge-strings-alternately) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2107-find-unique-binary-string](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/2107-find-unique-binary-string) |
+| [2502-sort-the-people](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/2502-sort-the-people) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2107-find-unique-binary-string](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/2107-find-unique-binary-string) |
 | [2428-equal-row-and-column-pairs](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/2428-equal-row-and-column-pairs) |
+| [2502-sort-the-people](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/2502-sort-the-people) |
 ## Sorting
 |  |
 | ------- |
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2502-sort-the-people](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/2502-sort-the-people) |
 ## Simulation
 |  |
 | ------- |
