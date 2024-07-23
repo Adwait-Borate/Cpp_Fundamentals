@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1833-find-the-highest-altitude](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1833-find-the-highest-altitude) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2102-find-the-middle-index-in-array](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/2102-find-the-middle-index-in-array) |
 | [2107-find-unique-binary-string](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/2107-find-unique-binary-string) |
 | [2428-equal-row-and-column-pairs](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/2428-equal-row-and-column-pairs) |
 | [2502-sort-the-people](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/2502-sort-the-people) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0525-contiguous-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1833-find-the-highest-altitude) |
+| [2102-find-the-middle-index-in-array](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/2102-find-the-middle-index-in-array) |
 ## Design
 |  |
 | ------- |
