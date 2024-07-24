@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0009-palindrome-number) |
 | [0060-permutation-sequence](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0060-permutation-sequence) |
 | [0268-missing-number](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0415-add-strings) |
