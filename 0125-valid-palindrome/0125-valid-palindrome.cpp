@@ -5,10 +5,10 @@ public:
         std::string word = "";
         for (auto &ch : s) {
             if (std::isalnum(ch)) {
-                word += std::tolower(ch); // Convert to lowercase before appending
+                word += std::tolower(ch);
             }
         }
-        std::string reversed = word; // Make a copy of word to avoid modifying it
+        std::string reversed = word;
         std::reverse(reversed.begin(), reversed.end());
 
         if(word == reversed){
