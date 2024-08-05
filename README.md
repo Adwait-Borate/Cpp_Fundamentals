@@ -315,4 +315,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1683-maximum-number-of-coins-you-can-get) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
