@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0226-invert-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0547-number-of-provinces) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0226-invert-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0547-number-of-provinces) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Hash Table
@@ -322,4 +324,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0176-second-highest-salary](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0177-nth-highest-salary) |
 | [0178-rank-scores](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0178-rank-scores) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0547-number-of-provinces) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
