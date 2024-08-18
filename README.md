@@ -340,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1415-students-and-examinations](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1415-students-and-examinations) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1541-top-travellers](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1541-top-travellers) |
+| [1625-group-sold-products-by-the-date](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1625-group-sold-products-by-the-date) |
 ## Union Find
 |  |
 | ------- |
