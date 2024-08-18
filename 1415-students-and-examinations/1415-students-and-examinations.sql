@@ -11,8 +11,14 @@ cte2 AS
     CROSS JOIN Subjects
 )
 
-SELECT cte2.student_id, cte2.student_name, cte2.subject_name, 
-       IFNULL(cte1.attnd, 0) AS attended_exams
+SELECT 
+    cte2.student_id, 
+    cte2.student_name, 
+    cte2.subject_name, 
+    CASE 
+        WHEN cte1.attnd IS NOT NULL THEN cte1.attnd 
+        ELSE 0 
+    END AS attended_exams
 FROM cte2 
 LEFT JOIN cte1
 ON cte1.student_id = cte2.student_id AND cte1.subject_name = cte2.subject_name
