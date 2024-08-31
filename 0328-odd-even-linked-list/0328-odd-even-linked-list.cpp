@@ -8,66 +8,27 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
-/**
- * Definition for singly-linked list.
- * struct ListNode {
- *     int val;
- *     ListNode *next;
- *     ListNode() : val(0), next(nullptr) {}
- *     ListNode(int x) : val(x), next(nullptr) {}
- *     ListNode(int x, ListNode *next) : val(x), next(next) {}
- * };
- */
-#include <queue>
-
 class Solution {
 public:
     ListNode* oddEvenList(ListNode* head) {
-        if (!head || !head->next) return head;  // If list has 0 or 1 node, return as is
-
-        std::queue<ListNode*> oddQueue;
-        std::queue<ListNode*> evenQueue;
-
-        ListNode* current = head;
-        bool isOdd = true;  // Flag to alternate between odd and even nodes
-
-        // Separate odd and even nodes into two queues
-        while (current != nullptr) {
-            if (isOdd) {
-                oddQueue.push(current);  // Push odd indexed nodes
-            } else {
-                evenQueue.push(current);  // Push even indexed nodes
-            }
-            current = current->next;  // Move to the next node
-            isOdd = !isOdd;  // Alternate the flag
+        if(head == nullptr || head->next == nullptr) {
+            return head;
         }
 
-        // Reconstruct the linked list
-        ListNode* newHead = nullptr;
-        ListNode* tail = nullptr;
+        ListNode* odd = head;             // Pointer to the odd list
+        ListNode* even = head->next;      // Pointer to the even list
+        ListNode* evenHead = even;        // Head of the even list
 
-        // First, add all odd nodes
-        while (!oddQueue.empty()) {
-            if (newHead == nullptr) {
-                newHead = oddQueue.front();  // Initialize the new head
-                tail = newHead;  // Initialize the tail
-            } else {
-                tail->next = oddQueue.front();  // Link the odd nodes
-                tail = tail->next;  // Move the tail
-            }
-            oddQueue.pop();
+        // Rearrange nodes in odd and even positions
+        while(even != nullptr && even->next != nullptr) {
+            odd->next = even->next;       // Point odd to the next odd node
+            odd = odd->next;              // Move odd pointer forward
+
+            even->next = odd->next;       // Point even to the next even node
+            even = even->next;            // Move even pointer forward
         }
 
-        // Next, add all even nodes
-        while (!evenQueue.empty()) {
-            tail->next = evenQueue.front();  // Link the even nodes
-            tail = tail->next;  // Move the tail
-            evenQueue.pop();
-        }
-
-        // End the list
-        tail->next = nullptr;
-
-        return newHead;
+        odd->next = evenHead;  // Attach even list after the odd list
+        return head;
     }
 };
