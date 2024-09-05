@@ -15,6 +15,7 @@ public:
         };
         
         // Use the comparator function in the priority_queue
+        //MIN HEAP BCZ U WANT THE NUMBER WITH MAX FREQUENCY FIRST
         priority_queue<pair<int, int>, vector<pair<int, int>>, Compare> minHeap;
 
         // Add elements to the min-heap
