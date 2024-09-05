@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0347-top-k-frequent-elements) |
 | [0525-contiguous-array](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0525-contiguous-array) |
 | [0648-replace-words](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0876-hand-of-straights) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0347-top-k-frequent-elements) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1635-number-of-good-pairs](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1635-number-of-good-pairs) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0525-contiguous-array](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0525-contiguous-array) |
@@ -252,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0658-find-k-closest-elements](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0658-find-k-closest-elements) |
@@ -329,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0004-median-of-two-sorted-arrays) |
+| [0347-top-k-frequent-elements](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0948-sort-an-array) |
 ## Game Theory
 |  |
@@ -369,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0658-find-k-closest-elements) |
 | [0948-sort-an-array](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0948-sort-an-array) |
 ## Merge Sort
@@ -378,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0948-sort-an-array) |
 ## Radix Sort
 |  |
@@ -387,4 +394,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0948-sort-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
