@@ -33,7 +33,7 @@ public:
         }
 
         // The heap gives the elements in the order of increasing frequency, so reverse the result
-        reverse(ans.begin(), ans.end());
+       // reverse(ans.begin(), ans.end());
 
         return ans;
     }
