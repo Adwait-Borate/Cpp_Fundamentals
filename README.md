@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0443-string-compression) |
+| [0658-find-k-closest-elements](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0658-find-k-closest-elements) |
 | [0908-middle-of-the-linked-list](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0917-boats-to-save-people) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0219-contains-duplicate-ii) |
+| [0658-find-k-closest-elements](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0658-find-k-closest-elements) |
 ## Array
 |  |
 | ------- |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0525-contiguous-array](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0525-contiguous-array) |
 | [0648-replace-words](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0648-replace-words) |
+| [0658-find-k-closest-elements](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0658-find-k-closest-elements) |
 | [0739-daily-temperatures](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0792-binary-search) |
 | [0876-hand-of-straights](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0876-hand-of-straights) |
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0658-find-k-closest-elements](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0658-find-k-closest-elements) |
 | [0876-hand-of-straights](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0876-hand-of-straights) |
 | [0917-boats-to-save-people](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0948-sort-an-array) |
@@ -286,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0287-find-the-duplicate-number) |
+| [0658-find-k-closest-elements](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0658-find-k-closest-elements) |
 | [0792-binary-search](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0792-binary-search) |
 ## Trie
 |  |
@@ -364,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0658-find-k-closest-elements) |
 | [0948-sort-an-array](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
