@@ -359,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0620-not-boring-movies](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0620-not-boring-movies) |
 | [0627-swap-salary](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0627-swap-salary) |
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
+| [1390-average-selling-price](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1390-average-selling-price) |
 | [1415-students-and-examinations](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1415-students-and-examinations) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1541-top-travellers](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1541-top-travellers) |
