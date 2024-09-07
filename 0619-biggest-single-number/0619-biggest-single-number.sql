@@ -1,6 +1,6 @@
 # Write your MySQL query statement below
 WITH NumberCounts AS (
-    SELECT num, COUNT(*) AS cnt
+    SELECT num, COUNT(num) AS cnt
     FROM MyNumbers
     GROUP BY num
 )
