@@ -372,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1801-average-time-of-process-per-machine](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1801-average-time-of-process-per-machine) |
 | [1827-invalid-tweets](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1908-recyclable-and-low-fat-products) |
+| [2127-employees-whose-manager-left-the-company](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/2127-employees-whose-manager-left-the-company) |
 ## Union Find
 |  |
 | ------- |
