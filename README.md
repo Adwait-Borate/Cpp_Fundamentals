@@ -365,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-top-travellers](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1541-top-travellers) |
 | [1625-group-sold-products-by-the-date](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1625-group-sold-products-by-the-date) |
 | [1801-average-time-of-process-per-machine](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1801-average-time-of-process-per-machine) |
+| [1908-recyclable-and-low-fat-products](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1908-recyclable-and-low-fat-products) |
 ## Union Find
 |  |
 | ------- |
