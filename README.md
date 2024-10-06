@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0012-integer-to-roman) |
 | [0060-permutation-sequence](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0060-permutation-sequence) |
+| [0070-climbing-stairs](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0415-add-strings) |
 | [1448-maximum-69-number](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1448-maximum-69-number) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0070-climbing-stairs) |
 | [0435-non-overlapping-intervals](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0435-non-overlapping-intervals) |
 ## Divide and Conquer
 |  |
@@ -416,4 +418,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0347-top-k-frequent-elements) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
