@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1833-find-the-highest-altitude](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1833-find-the-highest-altitude) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2022-maximum-alternating-subsequence-sum](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2102-find-the-middle-index-in-array](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/2102-find-the-middle-index-in-array) |
 | [2107-find-unique-binary-string](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/2107-find-unique-binary-string) |
 | [2428-equal-row-and-column-pairs](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/2428-equal-row-and-column-pairs) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0198-house-robber) |
 | [0435-non-overlapping-intervals](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0435-non-overlapping-intervals) |
+| [2022-maximum-alternating-subsequence-sum](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/2022-maximum-alternating-subsequence-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
