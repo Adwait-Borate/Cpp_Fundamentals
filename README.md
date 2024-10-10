@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0648-replace-words) |
 | [0926-find-and-replace-pattern](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0926-find-and-replace-pattern) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1250-longest-common-subsequence](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1250-longest-common-subsequence) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1666-make-the-string-great](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1666-make-the-string-great) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0279-perfect-squares) |
 | [0435-non-overlapping-intervals](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0435-non-overlapping-intervals) |
+| [1250-longest-common-subsequence](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1250-longest-common-subsequence) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/2022-maximum-alternating-subsequence-sum) |
 ## Divide and Conquer
 |  |
