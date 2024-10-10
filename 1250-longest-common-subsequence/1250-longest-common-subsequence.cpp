@@ -1,10 +1,9 @@
 class Solution {
 public:
     int n, m;
-    vector<vector<int>> dp;
+    int dp[1001][1001];
 
     int solve(string& text1, string& text2, int n, int m) {
-
         if (n == 0 || m == 0) {
             return 0;
         }
@@ -29,7 +28,7 @@ public:
         n = text1.length();
         m = text2.length();
 
-        dp = vector<vector<int>>(n + 1, vector<int>(m + 1, -1));
+        memset(dp, -1, sizeof(dp));
 
         return solve(text1, text2, n, m);
     }
