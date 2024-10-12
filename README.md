@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0648-replace-words) |
 | [0658-find-k-closest-elements](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0658-find-k-closest-elements) |
 | [0739-daily-temperatures](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0739-daily-temperatures) |
+| [0747-min-cost-climbing-stairs](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0792-binary-search) |
 | [0876-hand-of-straights](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0890-lemonade-change) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0279-perfect-squares) |
 | [0435-non-overlapping-intervals](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0435-non-overlapping-intervals) |
+| [0747-min-cost-climbing-stairs](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1250-longest-common-subsequence) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/2022-maximum-alternating-subsequence-sum) |
