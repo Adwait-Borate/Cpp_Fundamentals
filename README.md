@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0012-integer-to-roman) |
 | [0060-permutation-sequence](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0279-perfect-squares) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0198-house-robber) |
@@ -439,4 +441,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1013-fibonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
