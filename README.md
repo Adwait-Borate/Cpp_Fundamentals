@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0347-top-k-frequent-elements) |
+| [0403-frog-jump](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0403-frog-jump) |
 | [0435-non-overlapping-intervals](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0525-contiguous-array](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0525-contiguous-array) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0279-perfect-squares) |
+| [0403-frog-jump](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0403-frog-jump) |
 | [0435-non-overlapping-intervals](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0435-non-overlapping-intervals) |
 | [0747-min-cost-climbing-stairs](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1013-fibonacci-number) |
