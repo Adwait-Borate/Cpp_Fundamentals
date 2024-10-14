@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0279-perfect-squares) |
 | [0415-add-strings](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0415-add-strings) |
 | [1013-fibonacci-number](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1013-fibonacci-number) |
+| [1086-divisor-game](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1086-divisor-game) |
 | [1448-maximum-69-number](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1448-maximum-69-number) |
 | [1635-number-of-good-pairs](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1635-number-of-good-pairs) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1683-maximum-number-of-coins-you-can-get) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0435-non-overlapping-intervals) |
 | [0747-min-cost-climbing-stairs](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1013-fibonacci-number) |
+| [1086-divisor-game](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1086-divisor-game) |
 | [1250-longest-common-subsequence](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1250-longest-common-subsequence) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/2022-maximum-alternating-subsequence-sum) |
 ## Divide and Conquer
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [1086-divisor-game](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1086-divisor-game) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1683-maximum-number-of-coins-you-can-get) |
 ## Database
 |  |
@@ -455,4 +458,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/0062-unique-paths) |
+## Brainteaser
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
