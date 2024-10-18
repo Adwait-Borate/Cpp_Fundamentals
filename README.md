@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1319-unique-number-of-occurrences) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1457-minimum-difficulty-of-a-job-schedule](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1603-running-sum-of-1d-array](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1635-number-of-good-pairs) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1683-maximum-number-of-coins-you-can-get) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1086-divisor-game](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1250-longest-common-subsequence) |
+| [1457-minimum-difficulty-of-a-job-schedule](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/Adwait-Borate/Cpp_Fundamentals/tree/master/2022-maximum-alternating-subsequence-sum) |
 ## Divide and Conquer
 |  |
